@@ -1,0 +1,6 @@
+posar una / davant dels "assets/..."
+canviar els .fxml per afegir com.project.Controller?.java
+(canviar tots els powerpoint on hi ha un exemple de controlador al gluon)
+
+
+
