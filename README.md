@@ -11,13 +11,8 @@ mvn compile
 mvn exec:java -Dexec.mainClass="com.project.Main" -q
 ```
 
-
-(Per explicar millor)
 Per executar el projecte a Windows cal
-```bash
 .\run.ps1 com.project.Main
-```
+
 Per executar el projecte a Linux/macOS cal
-```bash
 ./run.sh com.project.Main
-```
